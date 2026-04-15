@@ -190,6 +190,6 @@ zhulego_kalchevskaya_code/
 | Кальчевская Полина Сергеевна | QA Engineer | Модульное тестирование, CI/CD |
 | Жулего Алина | Backend Developer | CRUD операции для заказов, отчёты |
 
-| **Репозиторий с кодом и сборкой проекта:** | [https://github.com/zhulegoalina/zhulego_kalchevskaya_code.git](https://github.com/zhulegoalina/zhulego_kalchevskaya_code.git) |
-| **GitHub Pages (сайт проекта)** | [https://zhulegoalina.github.io/zhulego_kalchevskaya_code/](https://zhulegoalina.github.io/zhulego_kalchevskaya_code/) |
-| **Wiki проекта** | [Wiki](https://github.com/fpmi-tpmp2026/tpmp-gr10a-lab4-zhulego_kalchevskaya/wiki) |
+**Репозиторий с кодом и сборкой проекта:** [https://github.com/zhulegoalina/zhulego_kalchevskaya_code.git](https://github.com/zhulegoalina/zhulego_kalchevskaya_code.git)
+**GitHub Pages (сайт проекта)** [https://zhulegoalina.github.io/zhulego_kalchevskaya_code/](https://zhulegoalina.github.io/zhulego_kalchevskaya_code/)
+**Wiki проекта** [Wiki](https://github.com/fpmi-tpmp2026/tpmp-gr10a-lab4-zhulego_kalchevskaya/wiki)
